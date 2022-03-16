@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JupiterToys.Automation.Web.Driver", "JupiterToys.Automation.Web.Driver\JupiterToys.Automation.Web.Driver.csproj", "{7897F813-688A-4ECD-BDBE-2984BEC07515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JupiterToys.Automation.Test", "JupiterToys.Automation.Test\JupiterToys.Automation.Test.csproj", "{018C3FC0-F52A-4B2F-B6C6-3C4FEFEBF2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JupiterToys.Automation.Core", "JupiterToys.Automation.Core\JupiterToys.Automation.Core.csproj", "{31DA33E7-C19F-45FE-B74A-F35CE13B2C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7897F813-688A-4ECD-BDBE-2984BEC07515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7897F813-688A-4ECD-BDBE-2984BEC07515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7897F813-688A-4ECD-BDBE-2984BEC07515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7897F813-688A-4ECD-BDBE-2984BEC07515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018C3FC0-F52A-4B2F-B6C6-3C4FEFEBF2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018C3FC0-F52A-4B2F-B6C6-3C4FEFEBF2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018C3FC0-F52A-4B2F-B6C6-3C4FEFEBF2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018C3FC0-F52A-4B2F-B6C6-3C4FEFEBF2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DA33E7-C19F-45FE-B74A-F35CE13B2C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DA33E7-C19F-45FE-B74A-F35CE13B2C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DA33E7-C19F-45FE-B74A-F35CE13B2C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DA33E7-C19F-45FE-B74A-F35CE13B2C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA01148-83FA-4602-AD7F-06E71C379D42}
+	EndGlobalSection
+EndGlobal
